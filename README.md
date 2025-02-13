@@ -1,6 +1,6 @@
 # RANS-ChannelFlow
 This code solves the 1D RANS equation of turbulent channel flow.
-Mesh are the Chebyshev points.
+Mesh is the Chebyshev points.
 Turbulence models include:
 - [ ] Cess eddy viscosity
 - [ ] mixing length
