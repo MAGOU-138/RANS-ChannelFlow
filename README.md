@@ -8,3 +8,4 @@ Turbulence models include:
 - [ ] standard k-omega
 ## The results of $Re_\tau=180,550$ are presented
 ![](RAS-channel-Retau-180.png)
+![](RAS-channel-Retau-550.png)
