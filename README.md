@@ -6,3 +6,5 @@ Turbulence models include:
 - [ ] standard k-epsilon
 - [ ] Chien k-epsilon
 - [ ] standard k-omega
+## The results of $Re_\tau=180,550$ are presented
+![](RAS-channel-Retau-180.png)
