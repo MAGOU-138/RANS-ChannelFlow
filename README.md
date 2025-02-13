@@ -1,4 +1,4 @@
-# This Jupyter notebook solves RAS equation in turbulent channel flow
+# This Jupyter notebook solves RANS equation in turbulent channel flow
 Turbulence models include:
 - [ ] Cess eddy viscosity
 - [ ] mixing length
